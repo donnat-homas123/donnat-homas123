@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on basics of web development
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning more about Python
 - 👯 I’m looking to collaborate on python projects
 - 💬 Ask me about anything under the sky
 - 📫 How to reach me: donna.thomas4039@gmail.com
